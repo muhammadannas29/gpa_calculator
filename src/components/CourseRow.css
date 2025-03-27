@@ -1,0 +1,25 @@
+.course-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .course-input,
+  .credit-input,
+  .grade-select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 30%;
+    background-color: rgba(232, 245, 251, 0.791);;
+  }
+  
+  .remove-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: red;
+  }
+  

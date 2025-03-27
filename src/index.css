@@ -1,0 +1,14 @@
+body {
+  background-color: rgba(187, 215, 227, 0.791);
+ background-attachment: fixed;
+  display: flex;
+  flex-direction: column;  
+  align-items: center;  
+  min-height: 100vh;  
+  margin: 0;
+  padding: 20px;  
+}
+
+h1 {
+  margin-bottom: 20px; 
+}
